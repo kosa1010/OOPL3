@@ -3,7 +3,6 @@ package pl.edu.ur.oopl3.Zad3_1;
 import pl.edu.ur.oopl3.Interfaces.FactorialInterface;
 
 /**
- * Created by mchyl on 28/07/2018.
  */
 public class RecursionFactorial implements FactorialInterface{
 
