@@ -7,7 +7,6 @@ import pl.edu.ur.oopl3.Zad3_3.Power;
 import pl.edu.ur.oopl3.Zad3_4.Fibonacci;
 
 /**
- * Created by mchyl on 28/07/2018.
  */
 public class Tests {
 
@@ -41,6 +40,6 @@ public class Tests {
     @Test
     public void testEx3_4(){
         Fibonacci fibonacci = new Fibonacci();
-        Assert.assertEquals(7, fibonacci.sumOfFicbonacci(4));
+        Assert.assertEquals(3, fibonacci.sumOfFicbonacci(4));
     }
 }
