@@ -212,4 +212,4 @@ Napisz algorytm realizujący zagadnienie wież Hanoi.
 W celu wykonania zadania zapoznaj się z następującym materiałem: http://pl.wikipedia.org/wiki/Wie%C5%BCe_Hanoi.
 
 
-###### W oparciu o opracowanie dr inż. Wojciecha Kozła
+###### W oparciu o opracowanie dr inż. Wojciecha Kozioła
