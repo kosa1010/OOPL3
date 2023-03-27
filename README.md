@@ -77,7 +77,7 @@ Utwórz program wykorzystujący działanie operatora przeciwnego do operatora po
 
 ## Zadania
 ### Zadanie 2.1 
-Zapoznaj się z dokumkentacją klasy `String`: http://docs.oracle.com/javase/6/docs/api/java/lang/String.html. Przetestuj działanie poniższego programu:
+Zapoznaj się z dokumkentacją klasy `String`: https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/String.html. Przetestuj działanie poniższego programu:
 
 ```java
 
